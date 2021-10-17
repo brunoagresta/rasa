@@ -23,6 +23,7 @@ nlu:
     - Are you young?
     - how old are you?
     - how old
+    - How old are you?
 - intent: goodbye
   examples: |
     - good afternoon
@@ -91,5 +92,3 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
-    - How old are you?
-    - how old are you?
